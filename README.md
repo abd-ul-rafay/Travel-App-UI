@@ -1,9 +1,6 @@
 # Travel App
 This project is for practice.
 
-## Flutter Travel App Beautiful UI
+## Using Flutter
 
-The app consist of 4 screens, Home screen consisting of horizontal (recommended places) listview and vertical listview (all places).
-Search screen for all places,
-And Favourite screen where all bookmarked places are saved.
-Also a bottom modal sheet to show details of places when clicked.
+The Flutter Travel App showcases a stunning user interface, comprising four main screens. The Home screen features a horizontal listview displaying recommended places, alongside a vertical listview presenting all available destinations. The Search screen enables users to explore all listed places conveniently. Additionally, the Favourites screen allows users to bookmark their preferred locations for easy access. Furthermore, a bottom modal sheet dynamically displays detailed information about selected places upon clicking, enhancing the user experience and facilitating seamless navigation throughout the app.
